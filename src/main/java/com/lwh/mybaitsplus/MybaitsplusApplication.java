@@ -14,6 +14,7 @@ public class MybaitsplusApplication {
         System.out.println("add something");
         System.out.println("add  commit 2");
         System.out.println("add  commit 2");
+        System.out.println("master test");
     }
 
 }
