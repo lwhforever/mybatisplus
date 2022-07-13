@@ -13,7 +13,7 @@ public class MybaitsplusApplication {
         SpringApplication.run(MybaitsplusApplication.class, args);
         System.out.println("add something");
         System.out.println("add  commit 2");
-
+        System.out.println("add  commit 2");
     }
 
 }
