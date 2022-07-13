@@ -15,6 +15,7 @@ public class MybaitsplusApplication {
         System.out.println("add  commit 2");
         System.out.println("add  commit 2");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 
 }
