@@ -7,3 +7,5 @@ test branch 1
 add in branch quota 1
 
 add in branch quota 2
+
+add in branch quota 3
